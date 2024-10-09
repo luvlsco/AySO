@@ -1,0 +1,114 @@
+exit
+ssh-keygen
+cd
+ls
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub 
+cd ..
+sudo apt install git
+git user
+git config
+git config --global user.name "luvlsco"
+git config --global user.email lucas.alan.vlsco@gmail.com
+git config --list
+git --version
+git clone git@github.com:luvlsco/AySO.git
+pwd
+ls
+cp 
+CP AySo
+cd
+cd ayso
+cd AySO
+ls 
+ls -la
+cat README.md
+cp README
+ls -la
+cp README.md
+ls -la
+cd ..
+ls -la
+cp README AySO/
+cd AySO
+ls -la
+git status
+git add README
+git status
+git commit -m "agregado readme"
+git push origin main
+ñs
+ls
+rm README.md
+ls
+git status
+rm README.md
+git add README.md
+git status
+git commit -m "borrado readme original"
+git push origin main
+git push -u origin main
+git --config -l
+git --config -list
+git config --list
+git push -u origin main
+pwr
+pdw
+ls
+cd ..
+ls
+git clone git@github.com:luvlsco/AySO.git
+cd AySO
+ls
+ls -a
+git status
+touch README.md
+git status
+git add README.md
+git commit -m "added readme"
+git status
+git push origin main
+ping github.com
+exit
+git status
+ls -la
+cd AySO
+ls
+git status
+git commit -m "added readme"
+git push -u origin main
+git remote add origin https://github.com/luvlsco/AySO.git
+git push --set-upstream origin main
+exit
+ls
+cd AySO
+ls
+echo apropos "dump traffic" >> comando_dump_net
+ls
+cat comando_dump_net 
+ls
+cat README
+cat README.md
+cat << FIN >> README.md
+Alumno: Lucas Velasco
+División: 113
+Turno: Mañana
+FIN
+
+cat README.md
+git status
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git status
+git add README.md 
+git commit -m "ADD: Nombre, División, Turno al README.md"
+git status
+ls
+cat README.md
+history
+history -a $HOME/.bash_history
+ls -la $HOME
+history -a $HOME/.bash_history
